@@ -20,7 +20,7 @@ function App() {
       <Residencies/>
       <Value/>
       <Contact/>
-      <GetStarted/>
+      <GetStarted/> 
       <Footer/>
     </div>
   );
